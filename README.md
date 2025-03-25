@@ -54,5 +54,9 @@ This repository contains the **Web Penetration Testing Report** conducted by **S
 📧 hamim.cybersec@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/hamim-pt/)  
 
+## 📁 Full Report  
+For the complete penetration testing report, access the PDF here:  
+[📄 View Full Report](https://drive.google.com/file/d/1NWxHV0_80tFBG8XU3tpTEE6UVX7pZ4FT/view?usp=sharing)  
+
 ---
 **Disclaimer:** This report is confidential and intended solely for Creative IT Institute. Unauthorized distribution is strictly prohibited. 🚨
